@@ -1,4 +1,5 @@
 ## function to conduct space-time permutation using Poisson scan statistics
+
 library(reliaR)
 library(stringr)
 library(scanstatistics)
